@@ -87,7 +87,7 @@ input {
 }
 
 .reset {
-  background-color: orangered;
+  background-color: red;
 }
 
 input::-webkit-outer-spin-button,
